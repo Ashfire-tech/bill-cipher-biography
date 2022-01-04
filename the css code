@@ -1,0 +1,40 @@
+#tribute-info{
+  text-align: center;
+  margin: 50px;
+}
+#image{
+  max-width:100%;
+  position: center;
+}
+
+#title{
+  text-align: center;
+}
+p{
+  text-align: center;
+}
+#main{
+  font-family: courier new, monospace;
+  background-color: rgb(255,254,214);
+}
+iframe{
+  border-radius: 4%;
+  border-color:black;
+  border-style:solid;
+  border-width: 5px;
+}
+a{
+  color: #0F0607;
+}
+a:hover{
+  color: #DD1155;
+}
+a:visited{
+  color: #AA1155;
+}
+#special{
+  text-align: left;
+}
+#img-div{
+  text-align: center;
+}
